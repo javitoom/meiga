@@ -1,0 +1,52 @@
+.headerLogin {
+    background-color: #5f5f5f;
+    position: relative;
+    z-index: 2;
+    font-size: 35px;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 0;
+    letter-spacing: 1px;
+    align-content: center;
+    border: 0;
+    text-align: center;
+    margin: 0;
+
+
+}
+.textLogin {
+    background-color: #5f5f5f;
+    position: relative;
+    z-index: 2;
+    font-size: 12px;
+    color: #000000;
+    width: 100%;
+    padding: 0;
+    letter-spacing: 1px;
+    margin: 0;
+    align-content: center;
+    border: 0;
+    text-align: center;
+}
+.login {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.login #errores{
+    text-align: center;
+    font-size: small;
+}
+
+#enviar{
+    background-color: #5f5f5f;
+    border: inset white;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: solid;
+    margin: 4px 2px;
+    cursor: pointer;
+}
