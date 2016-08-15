@@ -42,7 +42,7 @@ include_once("menu.php");
             }
             ?>
         </div>
-        <form name="fLogin" method="get" action="TratamientoLogin.php" onsubmit="return validaCamposVacios('fLogin')">
+        <form name="fLogin" method="get" action="TratamientoLogin.php" >
             <div class="textLogin">
                 <table align="center" class="textLogin">
                     <tr>
