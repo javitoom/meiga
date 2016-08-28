@@ -5,9 +5,9 @@
  * Date: 07/08/2016
  * Time: 21:34
  */?>
-<div>
+<div class="menu">
     <ul>
-        <li><a class="active" href="#home">Inicio</a></li>
+        <li><a class="active" href="inicio.php">Inicio</a></li>
         <li class="dropdown">
             <a href="#" class="dropbtn">Quenes somos?</a>
             <div class="dropdown-content">
@@ -50,6 +50,12 @@
             </div>
         </li>
         <li><a class="active" href="#home">Contacto</a></li>
-        <li id="registrate"><a class="active" href="#home">Registrate</a></li>
+        <?php if(!isset($_SESSION["nomUsuario"])){  ?>
+        <li id="registrate"><a class="active" href="registrate.php">Registrate</a></li>
+        <li id="registrate"><a class="active" href="login.php">Login</a></li>
+        <?php }else{?>
+            <li id="registrate"><a class="active" href="logout.php">Logout</a></li>
+            <li id="registrate"><a class="active" href="login.php">Perfil</a></li>
+        <?php } ?>
     </ul>
 </div>

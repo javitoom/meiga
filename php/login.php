@@ -12,9 +12,6 @@ if (!isset($_SESSION["formularioLog"])) {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="../css/cabecera.css">
     <link rel="stylesheet" href="../css/login.css">
     <title>Document</title>
@@ -24,7 +21,7 @@ if (!isset($_SESSION["formularioLog"])) {
 include_once("cabecera.php");
 include_once("menu.php");
 ?>
-<div>
+<div><?php if(!isset($_SESSION["nomUsuario"])){  ?>
     <div class="login">
         <h1 class="headerLogin">
             <br>
@@ -40,6 +37,12 @@ include_once("menu.php");
                 }
                 unset($_SESSION["errores"]);
             }
+            if (isset($_SESSION["infos"])) {
+                foreach ($_SESSION["infos"] as $info) {
+                    echo "Info: " . $info; ?><br><?php
+                }
+                unset($_SESSION["info"]);
+            }
             ?>
         </div>
         <form name="fLogin" method="get" action="TratamientoLogin.php" >
@@ -48,7 +51,7 @@ include_once("menu.php");
                     <tr>
                         <td>
                             <input id="ctUsuario" name="usuario" type="text" placeholder="Usuario"
-                                   value="<?php echo $formulario["usuario"]; ?>"/>
+                                   value="<?php echo $_SESSION["nomUsuario"]; ?>"/>
                         </td>
                     </tr>
                     <tr>
@@ -69,6 +72,24 @@ include_once("menu.php");
 
 
     </div>
+    <?php }else{ ?>
+        <div class="login">
+            <h1>Datos</h1>
+            <ul>
+                <li><b>Nombre: </b><?php echo $_SESSION["nomUsuario"]?><br></li>
+                <li><b>Usuario: </b><?php echo $_SESSION["usuario"]?></li>
+                <li><b>Puntos: </b><?php echo $_SESSION["puntos"]?></li>
+            </ul>
+        </div>
+    <?php }
+    if ($_SESSION["adm"]==1){
+        ?>
+        <div class="login">
+            
+        </div>
+        <?php
+    }
+    ?>
 </div>
 </body>
 </html>

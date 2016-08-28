@@ -50,3 +50,9 @@
     margin: 4px 2px;
     cursor: pointer;
 }
+.login ul{
+    padding-right: 20px;
+}
+.login h1{
+    text-align: center;
+}

@@ -1,9 +1,9 @@
 <?php
 function crearConexion()
 {
-    $host="mysql:host=localhost;dbname=meiga";
-    $usuario="root";
-    $pass="";
+    $host="mysql:host=eu-cdbr-azure-west-d.cloudapp.net;dbname=miegadb";
+    $usuario="bd238858fed131";
+    $pass="27d9f9c9";
     try {
         $conexion = new PDO($host, $usuario, $pass);
         $conexion->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -15,7 +15,7 @@ function crearConexion()
     }
     return $conexion;
 }
-function cerrarConexionBD($conexion)
+function cerrarConexion($conexion)
 {
     $conexion = null;
 }
