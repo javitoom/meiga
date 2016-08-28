@@ -15,6 +15,9 @@ if (!isset($_SESSION["formularioLog"])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/cabecera.css">
     <link rel="stylesheet" href="../css/login.css">
+    <link rel="stylesheet" href="../css/w3.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel="" href="">
     <title>Document</title>
 </head>
 <body>
@@ -83,14 +86,16 @@ include_once("menu.php");
             </ul>
         </div>
     <?php }
-    if ($_SESSION["adm"]==1){
+    if(isset($_SESSION["adm"])){
+    if ($_SESSION["adm"]==1) {
         ?>
         <div class="login">
-            
+
         </div>
         <?php
-    }
+    }}
     ?>
 </div>
+<script src="../js/navbar.js"></script>
 </body>
 </html>
