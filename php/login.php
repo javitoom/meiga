@@ -17,7 +17,6 @@ if (!isset($_SESSION["formularioLog"])) {
     <link rel="stylesheet" href="../css/login.css">
     <link rel="stylesheet" href="../css/w3.css">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-    <link rel="" href="">
     <title>Document</title>
 </head>
 <body>
@@ -97,9 +96,5 @@ include_once("menu.php");
     ?>
 </div>
 <script src="../js/navbar.js"></script>
-<script src="../js/jquery-3.1.0.min.js"></script>
-<script src="../js/doubletaptogo.min.js">
-    $('.w3-dropdown-hover').doubleTapToGo();
-</script>
 </body>
 </html>

@@ -13,6 +13,8 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/cabecera.css">
     <link rel="stylesheet" href="../css/login.css">
+    <link rel="stylesheet" href="../css/w3.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
     <title>Document</title>
 </head>
 <body>
