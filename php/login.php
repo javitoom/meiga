@@ -97,5 +97,9 @@ include_once("menu.php");
     ?>
 </div>
 <script src="../js/navbar.js"></script>
+<script src="../js/jquery-3.1.0.min.js"></script>
+<script src="../js/doubletaptogo.min.js">
+    $('.w3-dropdown-hover').doubleTapToGo();
+</script>
 </body>
 </html>

@@ -66,7 +66,7 @@
 <!-- navbar phone-->
 <div id="navDemo" class="w3-hide w3-hide-large w3-hide-medium" >
     <ul class="w3-navbar w3-left-align w3-black">
-        <li class=" w3-dropdown-hover">
+        <li class=" w3-dropdown-hover" style="background-color: #000; color: #ccc">
             <a href="#" class="w3-hover-none w3-padding-large">Quenes somos?</a>
             <div class="w3-dropdown-content w3-white w3-card-4">
                 <a href="#">Coñécenos!</a>
