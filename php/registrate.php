@@ -62,6 +62,7 @@ include_once("menu.php");
         <input name="reg" type="submit">
     </form>
 </div>
+<script src="../js/navbar.js"></script>
 </body>
 </html>
 <?php cerrarConexion($conexion)?>

@@ -27,5 +27,6 @@ include_once("menu.php");
 
     </h6>
 </div>
+<script src="../js/navbar.js"></script>
 </body>
 </html>
