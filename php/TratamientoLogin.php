@@ -24,10 +24,12 @@
     function validarLogin($formulario){ 
         if(!(isset($formulario["usuario"]) && strlen($formulario["usuario"]) > 0)){ 
             $errores[] = "Debe introducir un nombre de <b>Usuario</b>"; 
+        }else{
+            $_SESSION['usuarioL']=$formulario['usuario'];
         }
           
         if(!(isset($formulario["pass"]) && strlen($formulario["pass"]) > 0)){ 
-            $errores[] = "Debe introducir una <b>Contraseña</b>"; 
+            $errores[] = "Debe introducir una <b>Contraseña</b>";
         }
           
         return $errores; 

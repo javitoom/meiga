@@ -37,9 +37,9 @@ if(isset($_GET['reg'])){
 include_once("cabecera.php");
 include_once("menu.php");
 ?>
-<div class="login">
-    <h1>Registro</h1>
-    <p>
+<div class="w3-display-container" style="height: 500px">
+    <h1 class="w3-display-topmiddle"><br>Registro</h1>
+    <p class=" w3-display-bottommiddle">
         <?php
         if (isset($errores)) {
             foreach ($errores as $error) {
@@ -55,11 +55,11 @@ include_once("menu.php");
         }
         ?>
     </p>
-    <form name="freg" method="get" action="">
-        <input name="usuario" type="text" placeholder="Usuario">
-        <input name="nomC" type="text" placeholder="Nombre completo">
-        <input name="pass" type="password" placeholder="Contraseña">
-        <input name="reg" type="submit">
+    <form class="w3-display-middle" name="freg" method="get" action="">
+        <input class="w3-input" name="usuario" type="text" placeholder="Usuario">
+        <input class="w3-input" name="nomC" type="text" placeholder="Nombre completo">
+        <input class="w3-input" name="pass" type="password" placeholder="Contraseña">
+        <input class="w3-input" name="reg" type="submit">
     </form>
 </div>
 <script src="../js/navbar.js"></script>

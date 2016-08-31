@@ -66,7 +66,7 @@
 <!-- navbar phone-->
 <div id="navDemo" class="w3-hide w3-hide-large w3-hide-medium" >
     <ul class="w3-navbar w3-left-align w3-black">
-        <li class=" w3-dropdown-hover" style="background-color: #000; color: #ccc">
+        <li class=" w3-dropdown-hover" style="background-color: #000; color: rgb(204, 204, 204)">
             <a href="#" class="w3-hover-none w3-padding-large">Quenes somos?</a>
             <div class="w3-dropdown-content w3-white w3-card-4">
                 <a href="#">Coñécenos!</a>
@@ -109,11 +109,11 @@
         </li>
         <li class=""><a class="w3-padding-large" href="#home">Contacto</a></li>
         <?php if(!isset($_SESSION["nomUsuario"])){  ?>
-            <li id="registrate" class=""><a class="w3-padding-large" href="registrate.php">Registrate</a></li>
-            <li id="registrate" class=""><a class="w3-padding-large"  href="login.php">Login</a></li>
+            <li class=""><a class="w3-padding-large" href="registrate.php">Registrate</a></li>
+            <li class=""><a class="w3-padding-large"  href="login.php">Login</a></li>
         <?php }else{?>
-            <li id="registrate" class=""><a class="w3-padding-large" href="logout.php">Logout</a></li>
-            <li id="registrate" class=""><a class="w3-padding-large" href="login.php">Perfil</a></li>
+            <li class=""><a class="w3-padding-large" href="logout.php">Logout</a></li>
+            <li class=""><a class="w3-padding-large" href="login.php">Perfil</a></li>
         <?php } ?>
     </ul>
 </div>

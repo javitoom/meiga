@@ -9,3 +9,6 @@ function navPho() {
         x.className = x.className.replace(" w3-show", "");
     }
 }
+function mostrarOcultar(id) {
+    (document.getElementById(id).style.display === "") ? document.getElementById(id).style.display = "none" : document.getElementById(id).style.display = "";
+}
