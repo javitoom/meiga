@@ -20,7 +20,8 @@
             </div>
         </li>
         <li class="w3-hide-small w3-dropdown-hover">
-            <a href="#" class="w3-hover-none w3-padding-large">Grupos de traballo</a>
+            <!--En href es donde hay que poner los enlaces TODO-->
+            <a href="./gruposdetraballo/gruposdetraballo.php" class="w3-hover-none w3-padding-large">Grupos de traballo</a>
             <div class="w3-dropdown-content w3-white w3-card-4">
                 <a href="#">Saúde Pública</a>
                 <a href="#">Educación Médica</a>
