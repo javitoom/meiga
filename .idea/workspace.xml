@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5627a38-fe97-42a6-a0c7-cb647da23be7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Actividades/Actividades.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Contacto/Contacto.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Intercambios/Coñeceonosoequipo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Intercambios/ElesestiveronenSantiago.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Intercambios/Elesforondeintercambio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Intercambios/Intercambios.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Intercambios/IntercambiosdoAaoZ.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Intercambios/Queresserpessoadecontacto.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Intercambios/acolleaunestudante.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Quenessomos/Coñecenos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Quenessomos/Quenessomos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Quenessomos/consultaoroi.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Socios/FAQ.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Socios/Faitesocio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Socios/Socios.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Socios/osodososos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Socios/participanasreunions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/Socios/queresgañarpuntos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/gruposdetraballo/Presidenciaevicepresidencia.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/gruposdetraballo/Secretariaetesoureria.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/gruposdetraballo/Webmaster.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/gruposdetraballo/dereitoshumanosepaz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/gruposdetraballo/educacionmedica.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/gruposdetraballo/saludreproductiva.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/gruposdetraballo/saudepublica.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/menu.php" afterPath="$PROJECT_DIR$/php/menu.php" />
     </list>
     <ignored path="meiga.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -167,6 +137,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Quique Mangut Gutiérrez &lt;quique mangut gutiérrez&gt;" />
         <option value="Sseek" />
         <option value="javi" />
         <option value="kike" />
@@ -431,7 +402,7 @@
       <workItem from="1474206082850" duration="98000" />
       <workItem from="1474379756179" duration="2195000" />
       <workItem from="1474382421359" duration="305000" />
-      <workItem from="1474386239610" duration="1086000" />
+      <workItem from="1474386239610" duration="1185000" />
     </task>
     <task id="LOCAL-00001" summary="he añadido grupostraballo">
       <created>1474381675508</created>
@@ -461,11 +432,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474382631300</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="arreglados enlaces 2&#10;">
+      <created>1474387349816</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1474387349816</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83451000" />
+    <option name="totallyTimeSpent" value="83550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -473,7 +451,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1797455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14626218" sideWeight="0.5084836" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14626218" sideWeight="0.5084836" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14626218" sideWeight="0.49151644" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -528,7 +506,8 @@
     <MESSAGE value="he añadido grupostraballo" />
     <MESSAGE value="he mejorado grupostraballo" />
     <MESSAGE value="arreglados enlaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="arreglados enlaces" />
+    <MESSAGE value="arreglados enlaces 2&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="arreglados enlaces 2&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
