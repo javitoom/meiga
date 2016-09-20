@@ -119,8 +119,8 @@
       <file leaf-file-name="menu.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/php/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+            <state relative-caret-position="804">
+              <caret line="116" column="64" selection-start-line="116" selection-start-column="64" selection-end-line="116" selection-end-column="64" />
               <folding>
                 <element signature="e#2836#3377#0#PHP" expanded="false" />
               </folding>
@@ -421,7 +421,7 @@
       <workItem from="1473610917027" duration="2456000" />
       <workItem from="1474206082850" duration="98000" />
       <workItem from="1474379756179" duration="2195000" />
-      <workItem from="1474382421359" duration="194000" />
+      <workItem from="1474382421359" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="he añadido grupostraballo">
       <created>1474381675508</created>
@@ -444,11 +444,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474382439502</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="arreglados enlaces">
+      <created>1474382631300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1474382631300</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82254000" />
+    <option name="totallyTimeSpent" value="82365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -510,7 +517,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="he añadido grupostraballo" />
     <MESSAGE value="he mejorado grupostraballo" />
-    <option name="LAST_COMMIT_MESSAGE" value="he mejorado grupostraballo" />
+    <MESSAGE value="arreglados enlaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="arreglados enlaces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -981,8 +989,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php/menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+        <state relative-caret-position="804">
+          <caret line="116" column="64" selection-start-line="116" selection-start-column="64" selection-end-line="116" selection-end-column="64" />
           <folding>
             <element signature="e#2836#3377#0#PHP" expanded="false" />
           </folding>
