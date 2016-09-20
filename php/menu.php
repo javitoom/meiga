@@ -86,7 +86,7 @@
                 <a href="#">Webmáster</a>
             </div>
         </li>
-        <li class=""><a class="w3-padding-large" href="#home">Actividades</a></li>
+        <li class=""><a class="w3-padding-large" href="/php/Actividades/Actividades.php">Actividades</a></li>
         <li class=" w3-dropdown-hover">
             <a href="#" class="w3-hover-none w3-padding-large">Intercambios</a>
             <div class="w3-dropdown-content w3-white w3-card-4">
@@ -108,7 +108,7 @@
                 <a href="#">"O oso dos ósos"</a>
             </div>
         </li>
-        <li class=""><a class="w3-padding-large" href="#home">Contacto</a></li>
+        <li class=""><a class="w3-padding-large" href="/php/Contacto/Contacto.php">Contacto</a></li>
         <?php if(!isset($_SESSION["nomUsuario"])){  ?>
             <li class=""><a class="w3-padding-large" href="/php/registrate.php">Registrate</a></li>
             <li class=""><a class="w3-padding-large"  href="/php/login.php">Login</a></li>

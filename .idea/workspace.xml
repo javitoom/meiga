@@ -77,9 +77,17 @@
       <file leaf-file-name="FAQ.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/Socios/FAQ.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="595">
               <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
+=======
+            <state relative-caret-position="804">
+              <caret line="116" column="64" selection-start-line="116" selection-start-column="64" selection-end-line="116" selection-end-column="64" />
+              <folding>
+                <element signature="e#2836#3377#0#PHP" expanded="false" />
+              </folding>
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
@@ -402,7 +410,10 @@
       <workItem from="1474206082850" duration="98000" />
       <workItem from="1474379756179" duration="2195000" />
       <workItem from="1474382421359" duration="305000" />
+<<<<<<< HEAD
       <workItem from="1474386239610" duration="1185000" />
+=======
+>>>>>>> origin/master
     </task>
     <task id="LOCAL-00001" summary="he añadido grupostraballo">
       <created>1474381675508</created>
@@ -432,6 +443,7 @@
       <option name="project" value="LOCAL" />
       <updated>1474382631300</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00005" summary="arreglados enlaces 2&#10;">
       <created>1474387349816</created>
       <option name="number" value="00005" />
@@ -444,6 +456,13 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="83550000" />
+=======
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="82365000" />
+>>>>>>> origin/master
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -506,8 +525,12 @@
     <MESSAGE value="he añadido grupostraballo" />
     <MESSAGE value="he mejorado grupostraballo" />
     <MESSAGE value="arreglados enlaces" />
+<<<<<<< HEAD
     <MESSAGE value="arreglados enlaces 2&#10;" />
     <option name="LAST_COMMIT_MESSAGE" value="arreglados enlaces 2&#10;" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="arreglados enlaces" />
+>>>>>>> origin/master
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -859,9 +882,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/php/menu.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="595">
           <caret line="71" column="64" selection-start-line="71" selection-start-column="64" selection-end-line="71" selection-end-column="64" />
           <folding />
+=======
+        <state relative-caret-position="804">
+          <caret line="116" column="64" selection-start-line="116" selection-start-column="64" selection-end-line="116" selection-end-column="64" />
+          <folding>
+            <element signature="e#2836#3377#0#PHP" expanded="false" />
+          </folding>
+>>>>>>> origin/master
         </state>
       </provider>
     </entry>
