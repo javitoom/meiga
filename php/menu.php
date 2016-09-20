@@ -11,7 +11,7 @@
         <li class="w3-hide-medium w3-hide-large w3-opennav w3-right">
             <a class="w3-padding-large" href="javascript:void(0)" onclick="navPho()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
         </li>
-        <li><a class="w3-hover-none w3-hover-text-grey w3-padding-large" href="inicio.php">Inicio</a></li>
+        <li><a class="w3-hover-none w3-hover-text-grey w3-padding-large" href="/php/inicio.php">Inicio</a></li>
         <li class="w3-hide-small w3-dropdown-hover">
             <a href="#" class="w3-hover-none w3-padding-large">Quenes somos?</a>
             <div class="w3-dropdown-content w3-white w3-card-4">
@@ -21,7 +21,7 @@
         </li>
         <li class="w3-hide-small w3-dropdown-hover">
             <!--En href es donde hay que poner los enlaces TODO-->
-            <a href="./gruposdetraballo/gruposdetraballo.php" class="w3-hover-none w3-padding-large">Grupos de traballo</a>
+            <a href="/php/gruposdetraballo/gruposdetraballo.php" class="w3-hover-none w3-padding-large">Grupos de traballo</a>
             <div class="w3-dropdown-content w3-white w3-card-4">
                 <a href="#">Saúde Pública</a>
                 <a href="#">Educación Médica</a>
