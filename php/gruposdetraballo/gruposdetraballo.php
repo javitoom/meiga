@@ -27,7 +27,7 @@ include_once("../menu.php");
         <h1>Aquí poderás descubrir todo sobre a túa asociación, dende a historia, os membros, as actividades, os intercambios que realizamos e moito máis!</h1>
         <h2>Un saúdo meigoso.</h2>
         <!--        TODO-->
-        <h3>Seguiremos actualizando a páxina con máis información ata o final do mes.</br>Faite socio <a href=#>aqui</a>.</h3>
+        <h3>Seguiremos actualizando a páxina con máis información ata o final do mes.<br>Faite socio <a href=#>aqui</a>.</h3>
     </div>
 </div>
 <script src="../../js/navbar.js"></script>
