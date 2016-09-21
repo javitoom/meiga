@@ -108,13 +108,13 @@
                 <a href="#">"O oso dos ósos"</a>
             </div>
         </li>
-        <li class=""><a class="w3-padding-large" href="/php/Contacto/Contacto.php">Contacto</a></li>
+        <li class=""><a class="w3-padding-large" href="#home">Contacto</a></li>
         <?php if(!isset($_SESSION["nomUsuario"])){  ?>
-            <li class=""><a class="w3-padding-large" href="/php/registrate.php">Registrate</a></li>
-            <li class=""><a class="w3-padding-large"  href="/php/login.php">Login</a></li>
+            <li class=""><a class="w3-padding-large" href="http://meiga.azurewebsites.net/php/registrate.php">Registrate</a></li>
+            <li class=""><a class="w3-padding-large"  href="http://meiga.azurewebsites.net/php/login.php">Login</a></li>
         <?php }else{?>
-            <li class=""><a class="w3-padding-large" href="/php/logout.php">Logout</a></li>
-            <li class=""><a class="w3-padding-large" href="/php/login.php">Perfil</a></li>
+            <li class=""><a class="w3-padding-large" href="http://meiga.azurewebsites.net/php/logout.php">Logout</a></li>
+            <li class=""><a class="w3-padding-large" href="http://meiga.azurewebsites.net/php/login.php">Perfil</a></li>
         <?php } ?>
     </ul>
 </div>
