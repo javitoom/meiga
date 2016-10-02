@@ -26,7 +26,7 @@ include_once("../menu.php");
     <div class="w3-display-middle">
         <h1>Coñécenos</h1>
         <h2>Que é a Xunta Directiva?</h2>
-        <!--        TODO-->LISTA DE MIEMBROS
+        <!--        TODO-->
         <h3>A Xunta Directiva (XD) é o órgano que xestiona a organización durante o período interasembleario. É a encargada de desenvolver actividades e proxectos seguindo os fins da asociación.
             A XD está formada por un presidente, un vicepresidente, un tesoureiro e un secretario, ademáis dun responsable por cada Comité Permanente (LORSA, LOME, LORP, LPO) e Intercambios, así como cargos de apoio (coordinador de intercambios e webmáster).
             A XD reúnese todas as semanas, e calquera socio pode achegarse para dar a súa opinión sobre proxectos, actividades ou decisións que se fan respecto da asociación.</h3>
