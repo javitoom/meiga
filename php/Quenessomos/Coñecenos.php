@@ -24,10 +24,15 @@ include_once("../menu.php");
 ?>
 <div class="w3-display-container" style="height: 500px">
     <div class="w3-display-middle">
-        <h1>Aquí poderás descubrir todo sobre a túa asociación, dende a historia, os membros, as actividades, os intercambios que realizamos e moito máis!</h1>
-        <h2>Un saúdo meigoso.</h2>
-        <!--        TODO-->
-        <h3>Seguiremos actualizando a páxina con máis información ata o final do mes.<br>Faite socio <a href=#>aqui</a>.</h3>
+        <h1>Coñécenos</h1>
+        <h2>Que é a Xunta Directiva?</h2>
+        <!--        TODO-->LISTA DE MIEMBROS
+        <h3>A Xunta Directiva (XD) é o órgano que xestiona a organización durante o período interasembleario. É a encargada de desenvolver actividades e proxectos seguindo os fins da asociación.
+            A XD está formada por un presidente, un vicepresidente, un tesoureiro e un secretario, ademáis dun responsable por cada Comité Permanente (LORSA, LOME, LORP, LPO) e Intercambios, así como cargos de apoio (coordinador de intercambios e webmáster).
+            A XD reúnese todas as semanas, e calquera socio pode achegarse para dar a súa opinión sobre proxectos, actividades ou decisións que se fan respecto da asociación.</h3>
+        <h2>Que é a Comisión Supervisora?</h2>
+        <h3>A comisión supervisora é a responsable de supervisar durante o periodo interasembleario as accións e decisións da Xunta Directiva, velando polo cumprimento dos fins da asociación e o bo funcionamento de ME.I.GA.</h3>
+
     </div>
 </div>
 <script src="../../js/navbar.js"></script>
