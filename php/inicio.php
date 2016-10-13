@@ -15,7 +15,7 @@ session_start();
     <link rel="stylesheet" href="../css/login.css">
     <link rel="stylesheet" href="../css/w3.css">
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-    <title>Document</title>
+    <title>Meiga</title>
 </head>
 <body>
 <?php
