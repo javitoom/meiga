@@ -7,4 +7,6 @@
  */?>
 <header>
     <img src="/imagenes/logo.jpg" alt="meiga" id="logo">
+    <link rel="shortcut icon" href="/imagenes/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/imagenes/favicon.ico" type="image/x-icon">
 </header>
