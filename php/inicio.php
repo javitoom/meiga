@@ -22,7 +22,7 @@ session_start();
  include_once("cabecera.php");
 include_once("menu.php");
 ?>
-<div >
+<div class="ptext">
     <div>
         <h1>Aquí poderás descubrir todo sobre a túa asociación, dende a historia, os membros, as actividades, os intercambios que realizamos e moito máis!</h1>
         <h2>Un saúdo meigoso.</h2>
