@@ -22,8 +22,8 @@ session_start();
  include_once("cabecera.php");
 include_once("menu.php");
 ?>
-<div class="w3-display-container" style="height: 500px">
-    <div class="w3-display-middle">
+<div >
+    <div>
         <h1>Aquí poderás descubrir todo sobre a túa asociación, dende a historia, os membros, as actividades, os intercambios que realizamos e moito máis!</h1>
         <h2>Un saúdo meigoso.</h2>
 <!--        TODO-->

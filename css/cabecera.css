@@ -58,3 +58,9 @@ body{
 .dropdown:hover .dropdown-content {
     display: block;
 }
+.ptext{
+    margin-top: 15vh;
+    margin-bottom: 15vh;
+    margin-right: 20vw;
+    margin-left: 20vw;
+}
