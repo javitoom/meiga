@@ -64,3 +64,11 @@ body{
     margin-right: 20vw;
     margin-left: 20vw;
 }
+.snIcon{
+    float: right;
+}
+.snIconS{
+    float: right;
+    height: 46px;
+    clear: right;
+}
