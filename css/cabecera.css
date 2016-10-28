@@ -59,10 +59,10 @@ body{
     display: block;
 }
 .ptext{
-    margin-top: 15vh;
-    margin-bottom: 15vh;
-    margin-right: 20vw;
-    margin-left: 20vw;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    margin-right: 15vw;
+    margin-left: 15vw;
 }
 .snIcon{
     float: right;

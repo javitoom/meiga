@@ -24,10 +24,10 @@ include_once("menu.php");
 ?>
 <div class="ptext">
     <div>
-        <h1>Aquí poderás descubrir todo sobre a túa asociación, dende a historia, os membros, as actividades, os intercambios que realizamos e moito máis!</h1>
-        <h2>Un saúdo meigoso.</h2>
+        <p style="font-size: 4vh">Aquí poderás descubrir todo sobre a túa asociación, dende a historia, os membros, as actividades, os intercambios que realizamos e moito máis!</p>
+        <p style="font-size: 3.5vh">Un saúdo meigoso.</p>
 <!--        TODO-->
-        <h3>Seguiremos actualizando a páxina con máis información ata o final do mes.</br>Faite socio <a href=#>aqui</a>.</h3>
+        <p style="font-size: 3vh">Seguiremos actualizando a páxina con máis información ata o final do mes.</br>Faite socio <a href=#>aqui</a>.</p>
     </div>
 </div>
 <script src="../js/navbar.js"></script>
