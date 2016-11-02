@@ -6,25 +6,25 @@
  * Time: 20:58
  */?>
 <header>
-    <img src="../imagenes/logo.png" alt="meiga" id="logo">
+    <img src="/imagenes/logo.png" alt="meiga" id="logo">
     <a href="https://twitter.com/meigausc">
-    <img src="../imagenes/twitterIcon.png" alt="Twitter" class="snIcon w3-hide-small">
+    <img src="/imagenes/twitterIcon.png" alt="Twitter" class="snIcon w3-hide-small">
     </a>
     <a href="https://www.instagram.com/meiga.usc/">
-    <img src="../imagenes/instagramIcon.png" alt="Instagram" class="snIcon w3-hide-small">
+    <img src="/imagenes/instagramIcon.png" alt="Instagram" class="snIcon w3-hide-small">
     </a>
     <a href="https://www.facebook.com/meigauscsantiago">
-    <img src="../imagenes/facebookIcon.png" alt="Facebook" class="snIcon w3-hide-small">
+    <img src="/imagenes/facebookIcon.png" alt="Facebook" class="snIcon w3-hide-small">
     </a>
 
     <a href="https://twitter.com/meigausc">
-        <img src="../imagenes/twitterIcon.png" alt="Twitter" class="snIconS w3-hide-medium w3-hide-large">
+        <img src="/imagenes/twitterIcon.png" alt="Twitter" class="snIconS w3-hide-medium w3-hide-large">
     </a>
     <a href="https://www.instagram.com/meiga.usc/">
-        <img src="../imagenes/instagramIcon.png" alt="Instagram" class="snIconS w3-hide-medium w3-hide-large">
+        <img src="/imagenes/instagramIcon.png" alt="Instagram" class="snIconS w3-hide-medium w3-hide-large">
     </a>
     <a href="https://www.facebook.com/meigauscsantiago">
-        <img src="../imagenes/facebookIcon.png" alt="Facebook" class="snIconS w3-hide-medium w3-hide-large">
+        <img src="/imagenes/facebookIcon.png" alt="Facebook" class="snIconS w3-hide-medium w3-hide-large">
     </a>
 
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/imagenes/favicon/apple-touch-icon-57x57.png" />
