@@ -81,8 +81,8 @@ include_once("menu.php");
         </div>
         <!--Estando logueado-->
     <?php }else{ ?>
-    <div class="w3-display-container" style="height: 700px">
-        <div class="w3-display-topmiddle">
+    <div style="height: 700px">
+        <div style="text-align: center">
             <h1><br>Datos</h1>
             <ul class="w3-ul">
                 <li><b>Nombre: </b><?php echo $_SESSION["nomUsuario"] ?><br></li>
@@ -94,7 +94,7 @@ include_once("menu.php");
         if (isset($_SESSION["adm"])){
         if ($_SESSION["adm"] == 1) {
         ?>
-        <div class="w3-display-bottommiddle">
+        <div class="">
             <h1>Editar usuarios</h1>
             <p><?php if (isset($errores)) {
                     foreach ($errores as $error) {
