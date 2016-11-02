@@ -95,7 +95,7 @@ include_once("menu.php");
         if ($_SESSION["adm"] == 1) {
         ?>
         <div class="">
-            <h1>Editar usuarios</h1>
+            <h1 style="text-align: center">Editar usuarios</h1>
             <p><?php if (isset($errores)) {
                     foreach ($errores as $error) {
                         echo "Error: " . $error; ?><br><?php
