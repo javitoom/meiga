@@ -67,8 +67,9 @@ body{
 .snIcon{
     float: right;
 }
-.snIconS{
+@media (max-device-width: 600px){ .snIcon{
     float: right;
     height: 46px;
     clear: right;
+}
 }
