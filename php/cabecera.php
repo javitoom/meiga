@@ -8,13 +8,13 @@
 <header>
     <img src="../imagenes/logo.png" alt="meiga" id="logo">
     <a href="https://twitter.com/meigausc">
-    <img src="../imagenes/twitterIcon.png" alt="Twitter" class="snIcon">
+    <img src="/imagenes/twitterIcon.png" alt="Twitter" class="snIcon">
     </a>
     <a href="https://www.instagram.com/meiga.usc/">
-    <img src="../imagenes/instagramIcon.png" alt="Instagram" class="snIcon">
+    <img src="/imagenes/instagramIcon.png" alt="Instagram" class="snIcon">
     </a>
     <a href="https://www.facebook.com/meigauscsantiago">
-    <img src="../imagenes/facebookIcon.png" alt="Facebook" class="snIcon">
+    <img src="/imagenes/facebookIcon.png" alt="Facebook" class="snIcon">
     </a>
     
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/imagenes/favicon/apple-touch-icon-57x57.png" />
