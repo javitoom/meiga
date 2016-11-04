@@ -6,7 +6,7 @@
  * Time: 20:58
  */?>
 <header>
-    <img src="../imagenes/logo.png" alt="meiga" id="logo">
+    <img src="/imagenes/logo.png" alt="meiga" id="logo">
     <a href="https://twitter.com/meigausc">
     <img src="/imagenes/twitterIcon.png" alt="Twitter" class="snIcon">
     </a>
