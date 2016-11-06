@@ -25,7 +25,7 @@ include_once("../menu.php");
 <div class="ptext">
     <div>
         <p style="font-size: 3.5vh;text-align: center;font-weight: bold;">QUENES SOMOS</p>
-        <img style="float: right;height: 30vh;margin-bottom: 2vh;" src="../../imagenes/logo.png" alt="Meiga">
+        <img style="float: right;height: 30vh;margin-bottom: 2vh;" src="/imagenes/logo.png" alt="Meiga">
         <div style="padding-top: 2vh;">
         <p style="font-size: 3.5vh">ME.I.GA (Medicina Intercambios Galicia) é o comité local de IFMSA-Spain en Santiago de Compostela.</p>
         <p style="font-size: 3.5vh">Somos unha asociación de estudantes de Medicina que traballa por cambiar o mundo.</p>
